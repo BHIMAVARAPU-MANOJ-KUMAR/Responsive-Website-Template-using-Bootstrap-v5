@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', Courier, monospace;
+}
+
+.banner {
+    background-image: url(images/codioful-formerly-gradienta-bKESVqfxass-unsplash.jpg);
+    width: 100%;
+    height: 100vh;
+    /* background-position: center center; */
+}
+
+.banner-heading {
+    margin-top: 70px;
+}
+
+.blog-image {
+    background-image: url(images/codioful-formerly-gradienta-gEZkP23pLZ4-unsplash.jpg);
+    width: 25%;
+    height: 31vh;
+    background-size: cover;
+    background-position: center;
+}
